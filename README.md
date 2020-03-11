@@ -7,7 +7,7 @@ The number in setTimeout function is the Time interval of function loop; by defa
 
 As JavaScript is a Single thread language and setTimeout function is an asynchronous function, the time interval will not be absolutely accurate.
 
-## Usage: 
+## Usage
 1.Create a new bookmark, name it yourself;
 
 2.Copy the text below and paste in the bookmark url in your browser; 
