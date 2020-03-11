@@ -10,7 +10,7 @@ As JavaScript is a Single thread language and setTimeout function is an asynchro
 ## Usage
 1.Create a new bookmark, name it yourself;
 
-2.Copy the text below and paste in the bookmark url in your browser; 
+2.Copy the text without commet and paste in the bookmark url in your browser; 
 
 3.On the web page of Tencent Class, click the Bookmark then it works;
 
